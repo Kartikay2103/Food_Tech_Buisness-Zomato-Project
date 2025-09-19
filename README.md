@@ -22,8 +22,8 @@ This project is based on a **Food Tech Business (Zomato)** dataset sourced from 
         2. This shows that food delivery demand is highest in metro cities.
 * **Imapact of Weather**:
  * Top Weather Conditions for Deliveries:
-    1. Fog & Cloudy: Each contributed ~0.22M orders, showing high demand even in challenging weather.
-    2. Sunny Days: Fewer orders (~0.16M), possibly because customers prefer dining out.
+    1. Fog & Cloudy: Each contributed ~ 29 min per orders.
+    2. Sunny Days: Fewer orders ~ 22 min per orders.
 * **Traffic Impact**:
     1. Jam: 31 mins (highest time taken)
     2. low Traffic: 21 min (fastest deliveries)
